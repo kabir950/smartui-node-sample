@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 env:
-  LT_USERNAME: ${{ secrets.LT_USERNAME }}
-  LT_ACCESS_KEY: ${{ secrets.LT_ACCESS_KEY }}
+  LT_USERNAME: "kabirk"
+  LT_ACCESS_KEY: "LT_RhMHqS2TJ4lYNmnzOfTYRaNYNdbFdvoDAKSFTVknI2UQBth"
   PROJECT_TOKEN: ${{ secrets.PROJECT_TOKEN }}
   LT_SDK_DEBUG: true
   SMARTUI_DEBUG: true
